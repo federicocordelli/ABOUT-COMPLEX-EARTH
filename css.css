@@ -1,0 +1,189 @@
+@charset "utf-8";
+/*
+css document
+*/
+
+.button {
+  background-color: #f56c63; /* Green */
+  border: 1px solid black;
+  color: black;
+  padding: 10px 15px;
+  font-family: SuisseIntl-Bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 12%;
+}
+
+.button:hover {
+  background-color: black; /* Green */
+  border: 1px solid #F8F1DB;
+  color: #F8F1DB;
+  padding: 10px 15px;
+  font-family: SuisseIntl-Bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 12%;
+}
+
+.button:active {
+  background-color: #F8F1DB; /* Green */
+  border: 1px solid black;
+  color: black;
+  padding: 10px 15px;
+  font-family: SuisseIntl-Bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 12%;
+}
+
+.buttonUsed {
+  background-color: #FF0000; /* Green */
+  border: 1px solid #F8F1DB;
+  color: #F8F1DB;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: none;
+  font-size: 15px;
+  border-radius: 12%;
+}
+
+.buttonS {
+  background-color: #92a8d1; /* Green */
+  border: 1px solid #92a8d1;
+  color: #F8F1DB;
+  padding: 10px 15px;
+  font-family: Ortica-Light;
+  text-align: center;
+
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 50%;
+}
+
+.buttonS:hover {
+  background-color: #92a8d1; /* Green */
+  border: 1px solid #92a8d1;
+  color: black;
+  padding: 10px 15px;
+  font-family: Ortica-Light;
+  text-align: center;
+
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 50%;
+}
+
+.buttonS:active {
+  background-color: #92a8d1; /* Green */
+  border: 1px solid #92a8d1;
+  color: #F8F1DB;
+  padding: 10px 15px;
+  font-family: Ortica-Light;
+  text-align: center;
+
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 50%;
+}
+
+.buttonH {
+  background-color: #92a8d1; /* Green */
+  border: 0px solid #92a8d1;
+  color: #F8F1DB;
+  padding: 0px 0px;
+  font-family: Ortica-Light;
+  text-align: center;
+
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 50%;
+}
+
+.buttonH:hover {
+  background-color: #92a8d1; /* Green */
+  border: 0px solid #92a8d1;
+  color: black;
+  padding: 0px 0px;
+  font-family: Ortica-Light;
+  text-align: center;
+
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 50%;
+}
+
+.buttonH:active {
+  background-color: #92a8d1; /* Green */
+  border: 0px solid #92a8d1;
+  color: #F8F1DB;
+  padding: 0px 0px;
+  font-family: Ortica-Light;
+  text-align: center;
+
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 50%;
+}
+
+
+
+a:link {
+  font-family:Ortica-Light;
+  font-size: 25px;
+  color: #F8F1DB;
+}
+
+a:visited {
+  font-family:Ortica-Light;
+  font-size: 25px;
+  color: black;
+}
+
+a:hover {
+  font-family:Ortica-Light;
+  font-size: 25px;
+  color: red;
+}
+
+a:active {
+  font-family:Ortica-Light;
+  font-size: 25px;
+  color: pink;
+}
+
+.button23 {
+  background-color: #F8F1DB;
+  border: none;
+  color: black;
+  padding: 2px 2px;
+  font-family: Ortica-Light;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 45px;
+  border-radius: 12px;
+}
+.button23:hover {
+  background-color: #F8F1DB;
+  border: none;
+  color: #f7cac9;
+  padding: 2px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 45px;
+  border-radius: 12px;
+}
